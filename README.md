@@ -4,15 +4,10 @@
 
 <div align="center">
   <h1>SoftSell</h1>
-  <p><strong>Turn idle software licenses into instant cash.</strong></p>
+  <p><strong>Marketing software resell startup website</strong></p>
   <p>
     <a href="#overview">Overview</a> •
-    <a href="#features-implemented">Features</a> •
-    <a href="#demo">Demo</a> •
-    <a href="#installation">Installation</a> •
-    <a href="#usage">Usage</a> •
-    <a href="#contributing">Contributing</a> •
-    <a href="#license">License</a>
+    <a href="#features-implemented">Features</a>
   </p>
 </div>
 
