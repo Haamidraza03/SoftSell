@@ -5,13 +5,13 @@ export default function CustTest() {
       name: 'Alice Johnson',
       role: 'IT Manager, TechCorp',
       text: '“SoftSell helped us clear out hundreds of unused Office 365 seats and recoup over $10,000—effortless and reliable!”',
-      image: './src/woman.png'
+      image: '/woman.png'
     },
     {
       name: 'Bob Smith',
       role: 'Procurement Lead, SoftSolutions',
       text: '“The valuation was spot on and the payout arrived within hours. Highly recommended for any organization looking to unlock software value.”',
-      image: './src/man.png'
+      image: '/man.png'
     }
   ];
 
