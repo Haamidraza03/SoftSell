@@ -9,6 +9,7 @@ import Navbar from './components/Navbar';
 import { useEffect } from 'react';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
+import Footer from './components/Footer';
 
 function App() {
   useEffect(()=>{
@@ -25,6 +26,7 @@ function App() {
         <WhyChooseUs/>
         <CustTest/>
         <Contact/>
+        <Footer/>
       </div>
     </>
   )
